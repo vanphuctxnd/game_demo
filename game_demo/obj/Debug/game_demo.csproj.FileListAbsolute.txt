@@ -1,0 +1,8 @@
+C:\Users\vanph\source\repos\game_demo\bin\Debug\game_demo.exe.config
+C:\Users\vanph\source\repos\game_demo\bin\Debug\game_demo.exe
+C:\Users\vanph\source\repos\game_demo\bin\Debug\game_demo.pdb
+C:\Users\vanph\source\repos\game_demo\obj\Debug\game_demo.csproj.AssemblyReference.cache
+C:\Users\vanph\source\repos\game_demo\obj\Debug\game_demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\vanph\source\repos\game_demo\obj\Debug\game_demo.csproj.CoreCompileInputs.cache
+C:\Users\vanph\source\repos\game_demo\obj\Debug\game_demo.exe
+C:\Users\vanph\source\repos\game_demo\obj\Debug\game_demo.pdb
